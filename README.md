@@ -29,7 +29,8 @@
         font-size: 36px;
         margin-bottom: 40px;
       }
-     
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1786135172046524"
+     crossorigin="anonymous"></script>
     </style
   </body>
 </html>
